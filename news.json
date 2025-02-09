@@ -1,5 +1,14 @@
 {
-  "title": "Skyblock Macerası",
-  "description": "Gökyüzündeki adalar arasında epik bir yolculuk.",
-  "imageLink": "https://minecraft.wiki/images/thumb/Skyblock_Island.png/1200px-Skyblock_Island.png"
+  "slides": [
+    {
+      "title": "Skyblock Macerası",
+      "description": "Gökyüzündeki adalar arasında epik bir yolculuk.",
+      "imageLink": "https://minecraft.wiki/images/thumb/Skyblock_Island.png/1200px-Skyblock_Island.png"
+    },
+    {
+      "title": "Skyblock Macerası",
+      "description": "Gökyüzündeki adalar arasında epik bir yolculuk.",
+      "imageLink": "https://minecraft.wiki/images/thumb/Skyblock_Island.png/1200px-Skyblock_Island.png"
+    }
+  ]
 }
